@@ -1,0 +1,73 @@
+[
+  {
+    "avatar": "@drawable/avatar_acacia",
+    "name": "安卡希雅"
+  },
+  {
+    "avatar": "@drawable/avatar_chenxing",
+    "name": "辰星"
+  },
+  {
+    "avatar": "@drawable/avatar_cherno",
+    "name": "琴诺"
+  },
+  {
+    "avatar": "@drawable/avatar_fenny",
+    "name": "芬妮"
+  },
+  {
+    "avatar": "@drawable/avatar_fritia",
+    "name": "芙提雅"
+  },
+  {
+    "avatar": "@drawable/avatar_lyfe",
+    "name": "里芙"
+  },
+  {
+    "avatar": "@drawable/avatar_marian",
+    "name": "茉莉安"
+  },
+  {
+    "avatar": "@drawable/avatar_me",
+    "name": "分析员"
+  },
+  {
+    "avatar": "@drawable/avatar_naruse",
+    "name": "晴"
+  },
+  {
+    "avatar": "@drawable/avatar_nita",
+    "name": "妮塔"
+  },
+  {
+  "avatar": "@drawable/avatar_siris",
+  "name": "瑟瑞斯"
+  }, {
+  "avatar": "@drawable/avatar_yao",
+  "name": "肴"
+},{
+  "avatar": "@drawable/avatar_tess",
+  "name": "苔丝"
+}, {
+  "avatar": "@drawable/avatar_katya",
+  "name": "凯茜娅"
+},{
+  "avatar": "@drawable/avatar_mauxir",
+  "name": "猫汐尔"
+},{
+  "avatar": "@drawable/avatar_enya",
+  "name": "恩雅"
+},{
+  "avatar": "@drawable/avatar_eatchel",
+  "name": "伊切尔"
+},{
+  "avatar": "@drawable/avatar_teomesus",
+  "name": "透墨索斯"
+},{
+  "avatar": "@drawable/avatar_ymir",
+  "name": "尤弥尔"
+},{
+  "avatar": "@drawable/avatar_divider",
+  "name": "分割线"
+}
+]
